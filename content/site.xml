@@ -73,6 +73,7 @@ under the License.
 
     <menu name="Documentation">
       <item name="Maven Plugins" href="/plugins/index.html" />
+	  <item name="Maven Extensions" href="/extensions/index.html" />
       <item name="Index (category)" href="/guides/index.html" />
 
       <item name="User Centre" href="/users/index.html" collapse="true">
@@ -169,6 +170,9 @@ under the License.
         <item name="Git Convention" href="/developers/conventions/git.html" />
         <item name="Developing Maven" href="/guides/development/guide-maven-development.html" collapse="true">
           <item name="Building Maven" href="/guides/development/guide-building-maven.html"/>
+          <item name="Testing Development Plugins" href="/guides/development/guide-testing-development-plugins.html" />
+          <item name="Testing Staged Releases" href="/guides/development/guide-testing-releases.html" />
+          <item name="Becoming Committer" href="/guides/development/guide-committer-school.html" />
         </item>
         <item name="Release Process" href="/developers/release/index.html" collapse="true">
           <item name="Common Procedure" href="/developers/release/maven-project-release-procedure.html" />
